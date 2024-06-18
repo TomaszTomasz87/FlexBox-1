@@ -27,3 +27,7 @@ body {
     flex-direction: row-reverse;
     flex-wrap: wrap
 }
+.three {
+    display: flex;
+    flex-direction: column-reverse;
+}
